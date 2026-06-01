@@ -8,4 +8,4 @@ def soma(n1 + n2):
 print(saldacao('valentina'))
 
 def despedida(nome):
-return f"Até mais, {nome}!"
+return f"Até mais, {NOME}!"
